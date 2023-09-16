@@ -30,5 +30,6 @@
 	{style}
 	on:click
 >
+	teste CI
 	{label}
 </button>
