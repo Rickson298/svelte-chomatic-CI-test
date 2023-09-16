@@ -30,5 +30,7 @@
 	{style}
 	on:click
 >
+	Build test
+
 	{label}
 </button>
