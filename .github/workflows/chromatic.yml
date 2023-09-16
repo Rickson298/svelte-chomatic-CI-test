@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - run: npm install pnpm pnpm import pnpm install pnpm build-storybook pnpm chromatic
-        # - uses: chromaui/action@v1
+        - uses: chromaui/action@v1
         with:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
           token: ${{ secrets.GITHUB_TOKEN }}
