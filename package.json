@@ -12,8 +12,7 @@
     "format": "prettier --plugin-search-dir . --write .",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "chromatic": "npx chromatic --project-token=chpt_6b460a66667f384",
-    "preinstall": "npx only-allow pnpm" 
+    "chromatic": "npx chromatic --project-token=chpt_6b460a66667f384"
   },
   "devDependencies": {
     "@fontsource/fira-mono": "^4.5.10",
