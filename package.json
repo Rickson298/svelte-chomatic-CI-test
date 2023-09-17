@@ -1,6 +1,6 @@
 {
 	"name": "planejape-ui",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
@@ -48,6 +48,5 @@
 		"vitest": "^0.34.0"
 	},
 	"type": "module",
-	"readme": "ERROR: No README data found!",
-	"_id": "planejape-ui@0.0.1"
+	"readme": "ERROR: No README data found!"
 }
