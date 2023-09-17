@@ -3,6 +3,9 @@
 	"version": "0.0.4",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
+	"exports": {
+		".": "./src"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
